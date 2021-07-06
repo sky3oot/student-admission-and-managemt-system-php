@@ -1,0 +1,38 @@
+.navbar {
+
+  background-color: #87CEEB;
+
+
+
+}
+
+/* Navbar links */
+.navbar a {
+  float: right;
+  color: 	black;
+  font-weight: 800;
+  text-align: right;
+  padding: 14px;
+
+}
+
+
+/* visited link */
+.navbar a:visited {
+  columns: 	#FF0000;
+  ;
+}
+
+/* mouse over link */
+.navbar a:hover {
+  color: 	red;
+}
+
+
+
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
